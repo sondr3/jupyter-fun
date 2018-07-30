@@ -11,6 +11,7 @@ pandas = "*"
 scipy = "*"
 seaborn = "*"
 jupyter = "*"
+requests = "*"
 
 [dev-packages]
 
