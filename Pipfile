@@ -12,6 +12,7 @@ scipy = "*"
 seaborn = "*"
 jupyter = "*"
 requests = "*"
+folium = "*"
 
 [dev-packages]
 
