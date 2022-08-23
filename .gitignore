@@ -1,6 +1,7 @@
 .ipynb*
 .idea/
-
+.mapbox-token
+.maps-token
 
 ### Created by https://www.gitignore.io
 ### Python ###
